@@ -2,7 +2,7 @@
 
 ## Problem ❌
 
-I could not skip songs via the "double pinch" method on my AirPods when connected to my PC that runs Linux Ubuntu 20.04. 
+I could not skip songs via the "double pinch" method on my AirPods when connected to my PC that runs Linux Ubuntu 22.04. 
 
 ## Findings 🔍
 
