@@ -20,6 +20,11 @@ Pausing and playing in 1.5 second window will go to the next song. So pinching t
 
 I added the script to startup applications, so I can use the skip song method without any manual work.
 
+## Work in progress
+
+- Finding a solution for previous song action.
+- Making it app specific so for example Youtube and Spotify will not overlap with each other.
+
 ## Requirements
 
 - Python3
